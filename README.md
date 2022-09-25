@@ -27,10 +27,18 @@ you missed attending a class
 
 You can download latest version by clicking here
 https://github.com/MohhammedNasr/Attendance-Saver/releases/download/v1.0-beta.1/AttendanceSaver.apk
+
+
 ## Forms
 
 If there is any bugs, suggestions please fill out this google form!
 https://forms.gle/WR46buRxGvie9ELk9
+
+## Preview
+
+gif preview of the app main function (low quality fast gif)
+
+![20220925_022316](https://user-images.githubusercontent.com/96019824/192123254-806145d9-f8fe-41d2-b45c-30a7b6ccc170.gif)
 
 ## Features
 
